@@ -1,0 +1,27 @@
+_repo: Grasshopper-Green-and-the-Meadow-Mice_24237
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 24237-h/images/back_cover.jpg
+creator:
+  author:
+    agent_name: Rae, John
+    birthdate: 1882
+    deathdate: 1963
+    gutenberg_agent_id: '26297'
+    url: http://www.gutenberg.org/2009/agents/26297
+description: ''
+gutenberg_issued: '2008-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24237'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories'
+- !lcc 'PZ'
+- !lcsh 'Grasshoppers -- Juvenile fiction'
+title: Grasshopper Green and the Meadow Mice
+url: http://www.gutenberg.org/ebooks/24237
